@@ -3,23 +3,4 @@ layout: page
 title: About me
 ---
 
-Test test...
-
-- bla bla
-
-## Ultra - Super fast Jekyll theme 
-
-Super fast, minimal one-column portfolio/blog theme built for Jekyll. Theme weighs under <strong>2kb</strong>. Perfect for your personal website, blog and portfolio.
-
-### Key features
-
-- seo optimized
-- weighs under 2kb
-- portfolio/blog pages
-- AAA, 100/100 scores on Lighthouse, Gmetrix and Webpagetest
-- responsive
-- inline css
-- compressed css, html
-- sitemap
-- robots.txt
-- atom feed
+I am currently a 3rd year PhD student in Mathematics at Imperial College London. For my PhD I study the dynamics of extremal black holes. Alongside this, I have also worked on personal projects in statistics and machine learning. Contributing to data science for public good is what I would like to do next. Outside of work, I'm a keen triathlete and you can often find me in the kitchen trying out a new recipe for my next adventure.
