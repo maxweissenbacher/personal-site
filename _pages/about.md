@@ -1,7 +1,11 @@
 ---
 layout: page
-title: About
+title: About me
 ---
+
+Test test...
+
+- bla bla
 
 ## Ultra - Super fast Jekyll theme 
 
