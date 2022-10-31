@@ -7,6 +7,4 @@ I am currently a 3rd year PhD student in Mathematics at Imperial College London.
 
 ![Cycling at Snowman 2022](/picture.jpg)
 
-<img src="/picture.jpg" alt="Picture" width="10"/>
-
 To find out more about my statistics and machine learning background, navigate to the [Projects page](/projects). To find out more about my research in mathematics, navigate to the [Research page](/research).
