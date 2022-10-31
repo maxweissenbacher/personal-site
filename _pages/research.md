@@ -7,6 +7,4 @@ Research page here.
 
 Here is the link to a presentation:
 
-[Link to a file]({{ site.baseurl }}{% link /presentationGRonline.pdf %})
-
-<object data="{{ site.url }}{{ site.baseurl }}/presentationGRonline.pdf" width="1000" height="1000" type="application/pdf"></object>
+[Talk in monthly seminar on General Relativity and Hyperbolic PDE]({{ site.baseurl }}{% link /presentationGRonline.pdf %})
