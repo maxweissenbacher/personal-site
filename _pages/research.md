@@ -3,8 +3,14 @@ layout: page
 title: Research
 ---
 
-Research page here.
+I am currently studying for my PhD in Mathematics at Imperial College London under the supervision of Martin Taylor and Gustav Holzegel. In my research, I study the stability and instability properties of extremal black holes of the theory of general relativity.
 
-Here is the link to a presentation:
+On this page I provide an explanation of my research in non-technical terms.
 
-[Talk in monthly seminar on General Relativity and Hyperbolic PDE]({{ site.baseurl }}{% link /presentationGRonline.pdf %})
+## Talks
+
+I have given talks on my research and other topics on several occasions. 
+
+- Monthly seminar on General Relativity and Hyperbolic PDE (21. 10. 2022, [slides]({{ site.baseurl }}{% link /presentationGRonline.pdf %}))
+
+During my PhD, I also co-organised the [Junior Analysis Seminar](https://www.imperial.ac.uk/pure-analysis-and-pdes/seminars/jas/) in the academic years 2020-21 and 2021-22.
