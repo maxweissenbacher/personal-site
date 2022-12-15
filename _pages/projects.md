@@ -1,6 +1,6 @@
 ---
-layout: projects
+layout: page
 title: Projects
 ---
 
-This text will not show on the website!
+Soon you will find a description of some data science projects I've been working on here.
