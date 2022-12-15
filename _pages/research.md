@@ -8,9 +8,7 @@ I am currently studying for my PhD in Mathematics at Imperial College London und
 On this page I provide an explanation of my research in non-technical terms.
 
 ## Black holes
-One of the most striking predictions of the theory of general relativity is the existence of black holes.
-
-...
+Find an understandable explanation of extremal black holes here soon!
 
 ## Talks
 
