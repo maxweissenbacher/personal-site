@@ -1,9 +1,9 @@
 ---
 layout: project
 title: Attention to chaos
-description: Description for Seo
+description: Attention to chaos
 summary: Controlling the KS equation in partial observability with memory.
-category: Project category
+category: Work in progress
 ---
 
-Test text
+A description of this ongoing project will follow soon.
