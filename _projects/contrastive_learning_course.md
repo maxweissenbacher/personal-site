@@ -2,7 +2,7 @@
 layout: project
 title: Lecture on contrastive learning
 description: Lecture on contrastive learning
-summary: A lecture on contrastive learning at Imperial College London
+summary: Week 7 of Mathematical Foundations of Machine Learning at ICL
 category: Teaching
 ---
 
