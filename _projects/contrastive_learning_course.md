@@ -11,4 +11,4 @@ Week 7 of Dr. Anastasia Borovykh's course on Mathematical Foundations of Machine
 The lecture introduces the idea of contrastive learning, a type of self-supervised learning.
 It discusses common types of contrastive losses and their interpretations, along with many applications and pitfalls to watch out for.
 
-Slides and notebook accompanying the lecture here soon!
+Take a look at the [lecture slides](../contrastive_loss_lecture_for_website.pdf) and accompanying Jupyter notebook!
