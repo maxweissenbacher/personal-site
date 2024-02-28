@@ -11,4 +11,4 @@ I taught week 7 of Dr. Anastasia Borovykh's course on Mathematical Foundations o
 The lecture introduces the idea of contrastive learning, a type of self-supervised learning.
 It discusses common types of contrastive losses and their interpretations, along with many applications and pitfalls to watch out for.
 
-Take a look at the [lecture slides](../contrastive_loss_lecture_for_website.pdf) and accompanying Jupyter notebook!
+Take a look at the [lecture slides](../contrastive_loss_lecture_for_website.pdf) and the accompanying [Jupyter notebook](https://colab.research.google.com/drive/11cScGPESCBuMwtVJ7O7yMH2dALlYp5Yi?usp=sharing), where we implement the SimCLR loss from scratch!
