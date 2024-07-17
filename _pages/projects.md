@@ -1,4 +1,6 @@
 ---
-layout: projects
+layout: page
 title: Projects
 ---
+
+test
