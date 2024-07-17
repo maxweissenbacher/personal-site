@@ -5,7 +5,14 @@ title: Projects
 
 More coming!
 
-## Publications
+## Papers
+
+<div class="conference-details">
+    <div class="paper-title">Decay and non-decay for the massless Vlasov equation on subextremal and extremal Reissner-Nordström black holes</div>
+    <div class="paper-authors">M. Weissenbacher</div>
+    <div class="paper-conference">Accepted to Archive for Rational Mechanics</div>
+    <div class="paper-link"><a href="https://arxiv.org/abs/2303.15338">Link</a></div>
+</div>
 
 ## Conferences
 
@@ -22,9 +29,10 @@ More coming!
 </div>
 
 <div class="conference-details">
-    <div class="paper-title">[CHAROT: Robustly controlling chaotic PDEs with partial observations](https://openreview.net/pdf?id=SytuCWihJr)</div>
+    <div class="paper-title">CHAROT: Robustly controlling chaotic PDEs with partial observations</div>
     <div class="paper-authors">M. Weissenbacher, A. Borovykh and G. Rigas</div>
     <div class="paper-conference">Presented at ICLR Workshop on AI4Differential Equations In Science, 2024</div>
+    <div class="paper-link"><a href="https://openreview.net/pdf?id=SytuCWihJr">Link</a></div>
 </div>
 
 

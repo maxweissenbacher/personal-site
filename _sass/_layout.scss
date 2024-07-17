@@ -77,6 +77,11 @@ footer {
     font-style: italic; /* Optional: italicize the conference name */
 }
 
+.conference-details .paper-link a {
+    color: blue;
+    text-decoration: underline;
+}
+
 .conference-details {
     line-height: 1.5; /* Adjust this value to modify the line spacing */
     margin-bottom: 1.5em; /* Adjust this value to modify the space below each conference entry */
