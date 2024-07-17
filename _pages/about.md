@@ -11,8 +11,3 @@ To find out about my current and past projects, navigate to the [Projects page](
 
 I obtained my PhD in Mathematics at Imperial College London. My thesis investigated the stability and instability of extremal black holes in general relativity.
 Take a look at [this paper](https://arxiv.org/abs/2303.15338) or [this seminar talk](../presentationGRonline.pdf).
-
-
-**Drag reduction for heavy road vehicles with rear flaps**
-
-X. Jiang, J. Zhang, M. Weissenbacher, I. Fumarola and G. Rigas
