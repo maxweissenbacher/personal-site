@@ -3,4 +3,4 @@ layout: page
 title: Projects
 ---
 
-test
+Coming soon.
