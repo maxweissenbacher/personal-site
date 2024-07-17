@@ -3,8 +3,6 @@ layout: page
 title: Projects
 ---
 
-More coming!
-
 ## Papers
 
 <div class="conference-details">
@@ -20,6 +18,12 @@ More coming!
     <div class="paper-title">Drag reduction for heavy road vehicles with rear flaps</div>
     <div class="paper-authors">X. Jiang, J. Zhang, M. Weissenbacher, I. Fumarola and G. Rigas</div>
     <div class="paper-conference">Presented at European Drag Reduction and Flow Control Meeting, 2024</div>
+</div>
+
+<div class="conference-details">
+    <div class="paper-title">Static and Dynamic Control for Wind Farm Wake Steering using LES</div>
+    <div class="paper-authors">A. Mole, M. Weissenbacher, S. Laizet</div>
+    <div class="paper-conference">Presented at 1st European Fluid Dynamics Conference, 2024</div>
 </div>
 
 <div class="conference-details">
