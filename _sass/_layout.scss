@@ -60,3 +60,23 @@ nav {
 footer {
     margin: 2rem 0;
 }
+
+
+.conference-details .paper-title {
+    font-weight: bold;
+    margin-bottom: 0.5em; /* Adjust this value to modify the space below the title */
+}
+
+.conference-details .paper-authors {
+    font-weight: normal;
+    margin-bottom: 0.5em; /* Adjust this value to modify the space below the authors */
+}
+
+.conference-details .paper-conference {
+    font-weight: normal;
+    font-style: italic; /* Optional: italicize the conference name */
+}
+
+.conference-details {
+    line-height: 1.5; /* Adjust this value to modify the line spacing */
+}
