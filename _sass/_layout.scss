@@ -75,11 +75,13 @@ footer {
 .conference-details .paper-conference {
     font-weight: normal;
     font-style: italic; /* Optional: italicize the conference name */
+    margin-bottom: 0.3em; /* Adjust this value to modify the space below the authors */
 }
 
 .conference-details .paper-link a {
     color: blue;
     text-decoration: underline;
+    margin-bottom: 0.3em; /* Adjust this value to modify the space below the authors */
 }
 
 .conference-details {
