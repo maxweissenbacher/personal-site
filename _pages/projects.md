@@ -6,6 +6,12 @@ title: Projects
 ## Papers
 
 <div class="conference-details">
+    <div class="paper-title">Reinforcement Learning of Active Flow Control in Partially Observable Environments</div>
+    <div class="paper-authors">M. Weissenbacher, A. Borovykh and G. Rigas</div>
+    <div class="paper-conference">Accepted at Flow Turbulence and Combustion (and presented at ERCOFTAC ML4FLUID workshop), 2024</div>
+</div>
+
+<div class="conference-details">
     <div class="paper-title">Decay and non-decay for the massless Vlasov equation on subextremal and extremal Reissner-Nordström black holes</div>
     <div class="paper-authors">M. Weissenbacher</div>
     <div class="paper-conference">Accepted to Archive for Rational Mechanics, 2024</div>
@@ -24,12 +30,6 @@ title: Projects
     <div class="paper-title">Static and Dynamic Control for Wind Farm Wake Steering using LES</div>
     <div class="paper-authors">A. Mole, M. Weissenbacher, S. Laizet</div>
     <div class="paper-conference">Presented at 1st European Fluid Dynamics Conference, 2024</div>
-</div>
-
-<div class="conference-details">
-    <div class="paper-title">Reinforcement Learning of Active Flow Control in Partially Observable Environments</div>
-    <div class="paper-authors">M. Weissenbacher, A. Borovykh and G. Rigas</div>
-    <div class="paper-conference">Presented at ERCOFTAC ML4FLUID workshop, 2024</div>
 </div>
 
 <div class="conference-details">
