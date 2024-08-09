@@ -21,6 +21,18 @@ title: Projects
 ## Conferences
 
 <div class="conference-details">
+    <div class="paper-title">Model Based Reinforcement Learning for chaotic flow control</div>
+    <div class="paper-authors">P. Gupta, M. Weissenbacher, G. Rigas</div>
+    <div class="paper-conference">Presented at DFD annual meeting of the American Physical Society, 2024</div>
+</div>
+
+<div class="conference-details">
+    <div class="paper-title">Reinforcement learning for turbulent drag reduction of realistic road vehicles with dynamic flaps</div>
+    <div class="paper-authors">J. Zhang, I. Fumarola, M. Weissenbacher, X. Jiang, G. Rigas</div>
+    <div class="paper-conference">Presented at DFD annual meeting of the American Physical Society, 2024</div>
+</div>
+
+<div class="conference-details">
     <div class="paper-title">Drag reduction for heavy road vehicles with rear flaps</div>
     <div class="paper-authors">X. Jiang, J. Zhang, M. Weissenbacher, I. Fumarola and G. Rigas</div>
     <div class="paper-conference">Presented at European Drag Reduction and Flow Control Meeting, 2024</div>
