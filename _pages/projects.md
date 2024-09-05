@@ -8,13 +8,13 @@ title: Projects
 <div class="conference-details">
     <div class="paper-title">Reinforcement Learning of Active Flow Control in Partially Observable Environments</div>
     <div class="paper-authors">M. Weissenbacher, A. Borovykh and G. Rigas</div>
-    <div class="paper-conference">Accepted at Flow Turbulence and Combustion (and presented at ERCOFTAC ML4FLUID workshop), 2024</div>
+    <div class="paper-conference">Flow Turbulence and Combustion (and presented at ERCOFTAC ML4FLUID workshop), 2024</div>
 </div>
 
 <div class="conference-details">
     <div class="paper-title">Decay and non-decay for the massless Vlasov equation on subextremal and extremal Reissner-Nordström black holes</div>
     <div class="paper-authors">M. Weissenbacher</div>
-    <div class="paper-conference">Accepted to Archive for Rational Mechanics, 2024</div>
+    <div class="paper-conference">Archive for Rational Mechanics, 2024</div>
     <div class="paper-link"><a href="https://arxiv.org/abs/2303.15338">Link</a></div>
 </div>
 
@@ -23,31 +23,31 @@ title: Projects
 <div class="conference-details">
     <div class="paper-title">Model Based Reinforcement Learning for chaotic flow control</div>
     <div class="paper-authors">P. Gupta, M. Weissenbacher, G. Rigas</div>
-    <div class="paper-conference">Presented at DFD annual meeting of the American Physical Society, 2024</div>
+    <div class="paper-conference">DFD annual meeting of the American Physical Society, 2024</div>
 </div>
 
 <div class="conference-details">
     <div class="paper-title">Reinforcement learning for turbulent drag reduction of realistic road vehicles with dynamic flaps</div>
     <div class="paper-authors">J. Zhang, I. Fumarola, M. Weissenbacher, X. Jiang, G. Rigas</div>
-    <div class="paper-conference">Presented at DFD annual meeting of the American Physical Society, 2024</div>
+    <div class="paper-conference">DFD annual meeting of the American Physical Society, 2024</div>
 </div>
 
 <div class="conference-details">
     <div class="paper-title">Drag reduction for heavy road vehicles with rear flaps</div>
     <div class="paper-authors">X. Jiang, J. Zhang, M. Weissenbacher, I. Fumarola and G. Rigas</div>
-    <div class="paper-conference">Presented at European Drag Reduction and Flow Control Meeting, 2024</div>
+    <div class="paper-conference">European Drag Reduction and Flow Control Meeting, 2024</div>
 </div>
 
 <div class="conference-details">
     <div class="paper-title">Static and Dynamic Control for Wind Farm Wake Steering using LES</div>
     <div class="paper-authors">A. Mole, M. Weissenbacher, S. Laizet</div>
-    <div class="paper-conference">Presented at 1st European Fluid Dynamics Conference, 2024</div>
+    <div class="paper-conference">1st European Fluid Dynamics Conference, 2024</div>
 </div>
 
 <div class="conference-details">
     <div class="paper-title">CHAROT: Robustly controlling chaotic PDEs with partial observations</div>
     <div class="paper-authors">M. Weissenbacher, A. Borovykh and G. Rigas</div>
-    <div class="paper-conference">Presented at ICLR Workshop on AI4Differential Equations In Science, 2024</div>
+    <div class="paper-conference">ICLR Workshop on AI4Differential Equations In Science, 2024</div>
     <div class="paper-link"><a href="https://openreview.net/pdf?id=SytuCWihJr">Link</a></div>
 </div>
 
