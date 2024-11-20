@@ -16,7 +16,7 @@ title: Projects
     <div class="paper-title">Decay and non-decay for the massless Vlasov equation on subextremal and extremal Reissner-Nordström black holes</div>
     <div class="paper-authors">M. Weissenbacher</div>
     <div class="paper-conference">Archive for Rational Mechanics, 2024</div>
-    <div class="paper-link"><a href="https://arxiv.org/abs/2303.15338">Link</a></div>
+    <div class="paper-link"><a href="https://link.springer.com/article/10.1007/s00205-024-02060-1">Link</a></div>
 </div>
 
 ## Conferences
