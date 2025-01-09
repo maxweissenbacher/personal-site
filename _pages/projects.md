@@ -8,8 +8,8 @@ title: Projects
 <div class="conference-details">
     <div class="paper-title">Reinforcement Learning of Active Flow Control in Partially Observable Environments</div>
     <div class="paper-authors">M. Weissenbacher, A. Borovykh and G. Rigas</div>
-    <div class="paper-conference">Flow Turbulence and Combustion, 2024</div>
-    <div class="paper-conference">In-progress version presented at ERCOFTAC ML4FLUID workshop, 2024</div>
+    <div class="paper-conference">Flow Turbulence and Combustion, 2025</div>
+<div class="paper-link"><a href="https://link.springer.com/article/10.1007/s10494-024-00632-5">Link</a></div>
 </div>
 
 <div class="conference-details">
@@ -60,4 +60,4 @@ I taught week 7 of Dr. Anastasia Borovykh's course on Mathematical Foundations o
 The lecture introduces the idea of contrastive learning, a type of self-supervised learning.
 It discusses common types of contrastive losses and their interpretations, along with many applications and pitfalls to watch out for.
 
-Take a look at the [lecture slides](../contrastive_loss_lecture_for_website.pdf) and the accompanying [Jupyter notebook](https://colab.research.google.com/drive/11cScGPESCBuMwtVJ7O7yMH2dALlYp5Yi?usp=sharing), where we implement the SimCLR loss from scratch.
+Take a look at the <span style="color:DarkBlue">[lecture slides](../contrastive_loss_lecture_for_website.pdf)</span> and the accompanying [Jupyter notebook](https://colab.research.google.com/drive/11cScGPESCBuMwtVJ7O7yMH2dALlYp5Yi?usp=sharing), where we implement the SimCLR loss from scratch.
