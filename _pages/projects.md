@@ -60,7 +60,7 @@ title: Projects
     <div class="paper-title">CHAROT: Robustly controlling chaotic PDEs with partial observations</div>
     <div class="paper-authors">M. Weissenbacher, A. Borovykh and G. Rigas</div>
     <div class="paper-conference">ICLR Workshop on AI4Differential Equations In Science, 2024</div>
-    <div class="paper-link"><a href="https://openreview.net/pdf?id=SytuCWihJr">Link to paper</a></div>
+    <div class="paper-link"><a href="https://openreview.net/forum?id=SytuCWihJr">Link to paper</a></div>
 </div>
 
 
