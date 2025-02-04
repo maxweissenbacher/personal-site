@@ -9,7 +9,7 @@ title: About me
             float: none !important;
             display: block;
             margin: 0 auto 10px auto;
-            width: 90% !important;  /* Makes image take most of the width on small screens */
+            width: 60% !important;  /* Makes image take most of the width on small screens */
             height: auto !important;
         }
     }
