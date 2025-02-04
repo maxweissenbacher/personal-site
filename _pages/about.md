@@ -10,6 +10,6 @@ My thesis investigated the stability and instability of extremal black holes in 
 To learn more about my research, navigate to the [Publications](/publications) page.
 
 <div style="text-align: center;">
-    <img src="../picture.png" alt="A drawing" style="height: 40vh; width: auto; max-width: 90%;">
+    <img src="../picture.jpg" alt="A drawing" style="height: 25vh; width: auto; max-width: 90%;">
 </div>
 
