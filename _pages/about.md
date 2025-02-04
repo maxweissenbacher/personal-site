@@ -16,7 +16,7 @@ title: About me
 </style>
 
 <p>
-    <img src="../picture.jpg" alt="A drawing" style="float: left; margin: 10px; width: 200px; height: auto;"> 
+    <img src="../picture.jpg" alt="A drawing" style="float: left; margin: 10px; width: 150px; height: auto;"> 
 </p>
 
 I am a Research Associate in the Department of Mathematics and the Department of Aeronautics at Imperial College London. 
