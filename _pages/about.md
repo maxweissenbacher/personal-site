@@ -24,6 +24,6 @@ I am a Postdoctoral Researcher in the Department of Aeronautics at Imperial Coll
 My work combines deep learning with fluid flow physics and engineering, with a particular focus on using reinforcement learning to optimise energy systems such as wind farms.
 
 I obtained my PhD in Mathematics at Imperial College London.
-My thesis investigates the stability and instability of extremal black holes in general relativity, drawing on techniques from the theory of partial differential equations and differential geometry.
+My thesis investigates the stability and instability of black holes in general relativity, drawing on techniques from the theory of partial differential equations and differential geometry.
 
 To learn more about my research, head over to the [Publications](/publications) page.
