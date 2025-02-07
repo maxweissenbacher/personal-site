@@ -16,7 +16,7 @@ title: About me
 </style>
 
 <p>
-    <img src="../picture.jpg" alt="A drawing" style="float: left; margin: 10px; width: 150px; height: auto;"> 
+    <img src="../picture.jpeg" alt="A drawing" style="float: left; margin: 10px; width: 150px; height: auto;"> 
 </p>
 
 
