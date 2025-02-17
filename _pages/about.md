@@ -19,6 +19,7 @@ title: About me
     <img src="../picture.png" alt="A drawing" style="float: left; margin: 10px; width: 150px; height: auto;"> 
 </p>
 
+**Update**: I will join Citadel Securities as a Quantitative Researcher in April 2025.
 
 I am a Postdoctoral Researcher in the Department of Aeronautics at Imperial College London. 
 My work combines deep learning with fluid flow physics and engineering, with a particular focus on using reinforcement learning to optimise energy systems such as wind farms.
