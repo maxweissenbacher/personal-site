@@ -16,7 +16,7 @@ title: About me
 </style>
 
 <p>
-    <img src="../picture.png" alt="A drawing" style="float: left; margin: 10px; width: 150px; height: auto;"> 
+    <img src="../picture.png" alt="A drawing" style="float: left; margin: 10px; width: 140px; height: auto;"> 
 </p>
 
 **Update**: I will join Citadel Securities as a Quantitative Researcher in April 2025.
